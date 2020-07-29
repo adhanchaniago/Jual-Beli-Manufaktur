@@ -1,0 +1,23 @@
+Nama : Bondan Satrio
+NIM : 4817070443
+Kelas : TI-2D
+
+- Link website : comunity.ribrick.com
+
+- localhost
+	Homepage : localhost/manufaktur/index.php
+	Admin : localhost/manufaktur/admin/login.php
+
+- Data untuk login :
+	Member :
+		email : nadifa@gmail.com
+		password : nadifa
+
+	Admin :
+		username : admin
+		password : admin
+
+- Catatan :
+	Untuk fitur "Add to Cart" dan transaksi-nya masih belum bisa pak, saya masih berusaha sampai bisa. Mohon maaf pak sebelumnya..
+	Mohon bantu nilai saya dan teman-teman ya pak..
+
